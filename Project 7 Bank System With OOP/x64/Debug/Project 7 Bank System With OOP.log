@@ -1,0 +1,22 @@
+﻿  Project 7 Bank System With OOP.cpp
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(44,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(49,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(233,1): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(329,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(361,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(395,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(442,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(519,1): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsString.h(524,1): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsDate.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsUtil.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsUser.h(170,2): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsUser.h(30): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsInputValidate.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsBankClient.h(184,2): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsBankClient.h(30): message : see declaration of 'clsBankClient::stTransferLogRecord'
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsTotalBalancesScreen.h(56,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsCurrency.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsBankClient.h(349): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\abdul\source\repos\Project 7 Bank System With OOP\Project 7 Bank System With OOP\clsUser.h(337): warning C4715: 'clsUser::Save': not all control paths return a value
+  Project 7 Bank System With OOP.vcxproj -> C:\Users\abdul\source\repos\Project 7 Bank System With OOP\x64\Debug\Project 7 Bank System With OOP.exe
