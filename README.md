@@ -1,5 +1,3 @@
-"# Project-7 _ BankSystem-v0.4"
-
 # Project-7: Bank System (v0.4)
 
 Author: Mustafa A. Ibrahim
